@@ -2,4 +2,5 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Made"
 theme = "PaperMod"
+publishDir = "reidwilliams.github.io"
 
