@@ -18,7 +18,7 @@ I bought some koji for myself and Angi; she's making the same bread too this wee
 
 The recipe is my standard sourdough loaf, adapted to use koji based on the Tartine Book No. 3 koji porridge bread recipe. The Tartine recipe calls for 50% baker's percentage of koji porridge (including dry koji and water). I wanted my loaves to be their usual size, so I scaled my entire recipe down so that the total recipe weight (including the koji) is the same as my usual recipe (2,200 g including flour, water, levain).
 
-#### Dough
+### Dough
 
 | Ingredient        | Amount |
 | ------------------|--------|
@@ -27,7 +27,7 @@ The recipe is my standard sourdough loaf, adapted to use koji based on the Tarti
 | Water             | 750 g  |
 | Levain            | 180 g  |
 
-#### Koji porridge
+### Koji porridge
 
 | Ingredient        | Amount |
 | ------------------|--------|

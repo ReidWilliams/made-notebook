@@ -28,7 +28,8 @@
 }
 
 .post-content {
-    color: var(--content)
+    color: var(--content);
+    letter-spacing: -0.16px;
 }
 
 .post-content h3,
