@@ -2,7 +2,7 @@
 title: "🍞 N°24 — Black Sesame"
 date: 2020-05-23T10:53:29-08:00
 cover:
-  image: 'cut.jpg'
+  image: 'loaf.jpg'
 ---
 
 - 25% whole wheat, rest was bread flour. 1 cup black sesame seeds lightly toasted (~2 mins)
@@ -15,6 +15,6 @@ cover:
 - Can’t remember when in. Fridge 7:30?
 - Baked around 10:30pm
 
-![](loaf.jpg)
+![](cut.jpg)
 
 
