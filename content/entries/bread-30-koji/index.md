@@ -13,6 +13,9 @@ I bought some koji for myself and Angi; she's making the same bread too this wee
 
 ## Tasting
 
+Crumb is typical for me, open and regularly spaced holes, not molten. The flavor is good, but the effect of the koji is pretty subtle. The crust seems to be a deeper color than usual, with an almost reddish tint to it.
+
+If I do koji again, I'd soak at 140°F for a couple hours before boiling. I might also try mixing koji with oatmeal to do a kind of mixed porridge bread.
 
 ## Notes
 
