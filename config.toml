@@ -3,8 +3,8 @@ languageCode = "en-us"
 title = "Made"
 theme = "PaperMod"
 publishDir = "reidwilliams.github.io"
+Paginate = 20
 
 [params]
-	disableThemeToggle = true
+  disableThemeToggle = true
   disableSpecial1stPost = false
-
