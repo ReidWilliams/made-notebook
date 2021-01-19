@@ -1,5 +1,5 @@
 ---
-title: "🍞 N°29 — Koji"
+title: "🍞 N°30 — Koji"
 date: 2021-01-17T10:53:29-08:00
 cover:
   image: 'meat-1.jpg'
