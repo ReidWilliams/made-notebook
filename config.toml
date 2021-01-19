@@ -4,3 +4,7 @@ title = "Made"
 theme = "PaperMod"
 publishDir = "reidwilliams.github.io"
 
+[params]
+	disableThemeToggle = true
+  disableSpecial1stPost = false
+

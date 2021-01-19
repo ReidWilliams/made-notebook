@@ -43,23 +43,19 @@
     border: 1px solid var(--border);
 }
 
-.post-entry:active {
-    transform: scale(.96)
-}
-
 .tag-entry .entry-cover {
     display: none
 }
 
 .entry-header h2 {
-    font-size: 24px
+    font-size: 30px
 }
 
 .entry-content {
-    margin: 8px 0;
+    margin: 14px 0;
     color: var(--secondary);
-    font-size: 14px;
-    line-height: 1.6;
+    font-size: 16px;
+    line-height: 1.4;
     overflow: hidden;
     display: -webkit-box;
     -webkit-box-orient: vertical;

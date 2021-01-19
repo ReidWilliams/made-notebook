@@ -2,7 +2,7 @@
 title: "🍞 N°30 — Koji"
 date: 2021-01-17T10:53:29-08:00
 cover:
-  image: 'meat-1.jpg'
+  image: 'L1170350.jpg'
 ---
 
 I've been wanting to make the Koji bread from Tartine Book No. 3 for a while now. Where did this come from? I had some Koji sitting in the freezer (probably for too long) from when I first made garum well over a year ago. This past summer, in the middle of the pandemic, I got interested in the Koji again and made some smoked rice amazake that I then made into mouse and ice cream.
@@ -13,9 +13,11 @@ I bought some koji for myself and Angi; she's making the same bread too this wee
 
 ## Tasting
 
-Crumb is typical for me, open and regularly spaced holes, not molten. The flavor is good, but the effect of the koji is pretty subtle. The crust seems to be a deeper color than usual, with an almost reddish tint to it.
+Crumb is typical for me, open and regularly spaced holes, not molten. The flavor is good, but the effect of the koji is subtle. The sweetness is there but could be sweeter. The crust seems to be a deeper color than usual, with an almost reddish tint to it.
 
 If I do koji again, I'd soak at 140°F for a couple hours before boiling. I might also try mixing koji with oatmeal to do a kind of mixed porridge bread.
+
+![](L1170360.jpg)
 
 ## Notes
 
@@ -35,7 +37,9 @@ The recipe is my standard sourdough loaf, adapted to use koji based on the Tarti
 | Ingredient        | Amount |
 | ------------------|--------|
 | Koji              | 150 g  |
-| Water             | 300 g  |	
+| Water             | 300 g  |
+
+![](L1170356.jpg)
 
 I lowered the amount of water in the dough so that the total water, including water in the porridge is 1,050 g.
 
