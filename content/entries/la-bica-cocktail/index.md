@@ -1,6 +1,8 @@
 ---
 title: "🍸 La Bica"
 date: 2016-01-31T10:53:29-08:00
+cover:
+  image: 'L1000286.jpg'
 ---
 
 The idea for this drink came from a shampoo that smelled of lime and salt—like a margarita but with no trace of sweetness. I wondered what a dry margarita might taste like and decided that a martini should be the starting point in making what became this drink.
