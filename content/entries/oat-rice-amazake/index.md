@@ -17,7 +17,7 @@ I'm also reducing the amount of koji relative to oats, to make this more about t
 - 3 tbsp peanut butter
 - 10 pinches salt (somewhere around 1 g)
 
-I'm doing this one in the instant pot overnight. Started at 10pm. I'm covering the pot and using a lower jar so that water reaches almost to the top of the jar, to get more even heating.
+Blended (to maximize enzyme activity) then into the instant pot overnight. Started at 10pm. I'm covering the pot and using a shorter jar so that water reaches almost to the top, to get more even heating.
 
 ## v.2
 
