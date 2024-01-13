@@ -13,7 +13,7 @@ Night, dilute starter 1 in 11 into 100g whole wheat flour + 100g water. This mak
 
 #### Day 3
 Mix:
-- 750g water at 100°F/Users/reidw/repos/made-notebook/content/entries/sourdough-recipe-v.2/index.md
+- 750g water at 100°F
 - 100g whole wheat flour
 - 900g bread flour
 
