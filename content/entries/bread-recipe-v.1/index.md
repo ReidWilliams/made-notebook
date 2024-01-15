@@ -3,7 +3,7 @@ title: "Sourdough recipe v.1"
 date: 2020-04-17T10:53:29-08:00
 ---
 
-**80% hydration, 10% whole wheat**
+**80% hydration, 18% whole wheat**
 
 #### Day 1
 Night, dilute starter 1 in 5 to start exponential growth. Same next morning.
